@@ -55,7 +55,7 @@ Used for connecting to a supported Infura node (instead of a local client). Vali
 
 #### `--localPort`
 
-Used to connect to a local clinet running on the specified port. Default is `8545`.
+Used to connect to a local client running on the specified port. Default is `8545`.
 
 #### `--syncFrom`
 
